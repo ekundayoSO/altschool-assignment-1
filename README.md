@@ -9,9 +9,12 @@ This is an assignment to showcase my basic personal information as a student in 
 git clone https://github.com/ekundayoSO/altschool-assignment-1.git
 ```
 
+# Deploy to netlify
+
 ```bash
-https://cloud-sulaimon.netlify.app
+[Visit my deployed site](https://cloud-sulaimon.netlify.app)
 ```
+
 # Author
 ```bash
 . Sulaimon Ekundayo
