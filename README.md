@@ -11,9 +11,8 @@ git clone https://github.com/ekundayoSO/altschool-assignment-1.git
 
 # Deploy to netlify
 
-```bash
 [Visit my deployed site](https://cloud-sulaimon.netlify.app)
-```
+
 
 # Author
 ```bash
