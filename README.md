@@ -15,8 +15,15 @@ git clone https://github.com/ekundayoSO/altschool-assignment-1.git
 
 # Build your own image and run the container
 ```sh
+cd script
 chmod 700 run.sh
 run.sh
+```
+
+```sh
+cd script
+chmod 700 cleanup.sh
+cleanup.sh
 ```
 
 # Author
