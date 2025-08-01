@@ -13,6 +13,11 @@ git clone https://github.com/ekundayoSO/altschool-assignment-1.git
 
 [Visit my deployed site](https://cloud-sulaimon.netlify.app)
 
+# Build your own image and run the container
+```sh
+chmod 700 run.sh
+run.sh
+```
 
 # Author
 ```bash
